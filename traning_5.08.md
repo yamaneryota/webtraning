@@ -1,4 +1,4 @@
-URI(Uniform Resource Identifiers)
+# URI(Uniform Resource Identifiers)
 
 スキームで表せるリソースを識別するための識別子のこと
 リソース(識別可能なすべてのもの)を識別するための文字列全般を表す
@@ -8,11 +8,11 @@ URI=URN+URL
 ファイルパス　クエリー文字列　フラグメント識別子
 である
 
-URL(Uniform Resource Locator)
+# URL(Uniform Resource Locator)
 WebブラウザなどでWebページを表示させるときに入力するアドレスのこと
 リソースの場所(ネットワークの位置)を表す
 
-HTTP(HyperText Transfer Protocol)
+# HTTP(HyperText Transfer Protocol)
 クライアントからサーバの一連の流れを決めているプロトコル(TCP/IPベース)
 (アドレスで指定したサーバのリソースを取りに行く)
 文書の転送プロトコル
@@ -29,7 +29,7 @@ HTTP(HyperText Transfer Protocol)
 スケーラビリティ(拡張性)の確保のためである
 現在では、Cookieという技術により状態を管理することも可能である
 
-HTTP Status Code
+# HTTP Status Code
 1XX　情報
 リクエストは受け取られたが、処理は継続される
 2XX　成功
