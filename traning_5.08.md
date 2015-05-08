@@ -1,4 +1,5 @@
 URI(Uniform Resource Identifiers)
+
 スキームで表せるリソースを識別するための識別子のこと
 リソース(識別可能なすべてのもの)を識別するための文字列全般を表す
 URI=URN+URL
@@ -8,10 +9,12 @@ URI=URN+URL
 である
 
 URL(Uniform Resource Locator)
+
 WebブラウザなどでWebページを表示させるときに入力するアドレスのこと
 リソースの場所(ネットワークの位置)を表す
 
 HTTP(HyperText Transfer Protocol)
+
 クライアントからサーバの一連の流れを決めているプロトコル(TCP/IPベース)
 (アドレスで指定したサーバのリソースを取りに行く)
 文書の転送プロトコル
@@ -29,6 +32,7 @@ HTTP(HyperText Transfer Protocol)
 現在では、Cookieという技術により状態を管理することも可能である
 
 HTTP Status Code
+
 1XX　情報
 リクエストは受け取られた。処理は継続される。
 2XX　成功
